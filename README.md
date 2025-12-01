@@ -181,15 +181,8 @@ We do not sell personal information.
 
 If you have questions about this privacy policy or our privacy practices:
 
-**Email:** privacy@etask.com  
-**Support:** support@etask.com  
-**Website:** https://etask.com/privacy  
+**Support:** support@eranin-tech.com  
 
-**Mailing Address:**  
-E-Task Privacy Team  
-[Your Company Address]  
-[City, State, ZIP Code]  
-[Country]
 
 ## Consent
 
